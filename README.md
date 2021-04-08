@@ -1,9 +1,9 @@
 # Client-server chat Application
 
 ### Members:
-* Keegan White WHTKEE004
-* Stuart Mesham MSHSTU001
-* Luc Hayward HYWLUC001
+* Keegan White
+* Stuart Mesham
+* Luc Hayward
 
 # Run Process
 Navigate to out/artifacts and run either the server or the client jar as needed.

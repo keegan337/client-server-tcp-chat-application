@@ -1,0 +1,42 @@
+
+Login header:
+
+COMMAND: AUTHENTICATE
+DESTINATION: null
+SOURCE: Current user
+LENGTH: -1
+
+
+Send message header:
+
+COMMAND: MESSAGE
+DESTINATION: hywluc001
+SOURCE: current user
+LENGTH: -1
+
+Receive message header:
+
+COMMAND: MESSAGE
+DESTINATION: current user
+SOURCE: stu777
+LENGTH: -1
+
+Send a connection request:
+
+COMMAND: CONNECT_CHAT
+DESTINATION: whtkee004
+SOURCE: current user
+LENGTH: -1
+
+Send a disconnection message:
+COMMAND: DISCONNECT
+DESTINATION: null
+SOURCE: current user
+LENGTH: -1
+
+Send a file response:
+
+COMMAND: FILE_RSP
+DESTINATION: whtkee004
+SOURCE: current user
+LENGTH: -1
